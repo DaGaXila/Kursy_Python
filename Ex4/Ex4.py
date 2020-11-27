@@ -1,10 +1,10 @@
-import script1
+﻿import script1
 from random import randrange as rndrng
 def task1():
     a = int(input())
     b = int(input())
     c = int(input())
-    count = script1.count(a, b, c)
+    count = script1.fun_count(a, b, c)
     print(f"Зарплата = {count}")
 def sort_for_2(a):
     b = []
@@ -66,4 +66,4 @@ def task7():
 # task4()
 # task5()
 # task6()
-task7()
+# task7()
