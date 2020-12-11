@@ -1,0 +1,6 @@
+firm_1   ÎÎÎ   1000   5000
+firm_2   ÎAÎ   12341   14321
+firm_3   UFO   10000   5555
+firm_4   ÎAOAO   23412   10000
+firm_5   AUUF   10   1
+firm_6   ÎoOoO  1   2
